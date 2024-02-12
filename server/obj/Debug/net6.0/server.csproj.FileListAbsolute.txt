@@ -1,0 +1,435 @@
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\appsettings.json
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\server.exe
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\server.deps.json
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\server.runtimeconfig.json
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\server.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\server.pdb
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Serilog.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\staticwebassets\msbuild.build.server.props
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\server.csproj.CopyComplete
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\server.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\refint\server.dll
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\server.pdb
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+C:\Users\chayaks\Desktop\‏‏תיקיה חדשה\server\obj\Debug\net6.0\ref\server.dll
+M:\j\server\bin\Debug\net6.0\appsettings.Development.json
+M:\j\server\bin\Debug\net6.0\appsettings.json
+M:\j\server\bin\Debug\net6.0\server.exe
+M:\j\server\bin\Debug\net6.0\server.deps.json
+M:\j\server\bin\Debug\net6.0\server.runtimeconfig.json
+M:\j\server\bin\Debug\net6.0\server.dll
+M:\j\server\bin\Debug\net6.0\server.pdb
+M:\j\server\bin\Debug\net6.0\Humanizer.dll
+M:\j\server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\j\server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\j\server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\j\server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\j\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\j\server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\j\server\bin\Debug\net6.0\Serilog.dll
+M:\j\server\bin\Debug\net6.0\Serilog.Sinks.File.dll
+M:\j\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\j\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\j\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\j\server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\j\server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+M:\j\server\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\j\server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\j\server\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\j\server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\j\server\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\j\server\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\j\server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\j\server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\j\server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\j\server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\j\server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\j\server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\j\server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\j\server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\j\server\bin\Debug\net6.0\DAL.dll
+M:\j\server\bin\Debug\net6.0\Models.dll
+M:\j\server\bin\Debug\net6.0\DAL.pdb
+M:\j\server\bin\Debug\net6.0\Models.pdb
+M:\j\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+M:\j\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+M:\j\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+M:\j\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+M:\j\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+M:\j\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+M:\j\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+M:\j\server\obj\Debug\net6.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+M:\j\server\obj\Debug\net6.0\staticwebassets\msbuild.build.server.props
+M:\j\server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+M:\j\server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server.props
+M:\j\server\obj\Debug\net6.0\staticwebassets.pack.json
+M:\j\server\obj\Debug\net6.0\staticwebassets.build.json
+M:\j\server\obj\Debug\net6.0\staticwebassets.development.json
+M:\j\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+M:\j\server\obj\Debug\net6.0\server.csproj.CopyComplete
+M:\j\server\obj\Debug\net6.0\server.dll
+M:\j\server\obj\Debug\net6.0\refint\server.dll
+M:\j\server\obj\Debug\net6.0\server.pdb
+M:\j\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+M:\j\server\obj\Debug\net6.0\ref\server.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\appsettings.json
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\server.exe
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\server.deps.json
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\server.runtimeconfig.json
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\server.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\server.pdb
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Serilog.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\DAL.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Models.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\DAL.pdb
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\bin\Debug\net6.0\Models.pdb
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\obj\Debug\net6.0\server.csproj.CopyComplete
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\obj\Debug\net6.0\server.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\obj\Debug\net6.0\refint\server.dll
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\obj\Debug\net6.0\server.pdb
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+C:\Users\LocalUser\Desktop\shulamit\יד\react\ReactProject\j\server\obj\Debug\net6.0\ref\server.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\appsettings.json
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\server.exe
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\server.deps.json
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\server.runtimeconfig.json
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\server.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\server.pdb
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Serilog.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\DAL.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Models.dll
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\DAL.pdb
+C:\Users\r0534\Downloads\סופי\j\server\bin\Debug\net6.0\Models.pdb
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\staticwebassets\msbuild.build.server.props
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\server.csproj.CopyComplete
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\server.dll
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\refint\server.dll
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\server.pdb
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+C:\Users\r0534\Downloads\סופי\j\server\obj\Debug\net6.0\ref\server.dll
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\server.dll
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\refint\server.dll
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\server.pdb
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\appsettings.json
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\server.exe
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\server.deps.json
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\server.runtimeconfig.json
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\server.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\server.pdb
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Serilog.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\DAL.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Models.dll
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\DAL.pdb
+C:\Users\r0534\Desktop\סופי\j\server\bin\Debug\net6.0\Models.pdb
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\staticwebassets\msbuild.build.server.props
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\server.csproj.CopyComplete
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+C:\Users\r0534\Desktop\סופי\j\server\obj\Debug\net6.0\ref\server.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\server.exe
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\server.deps.json
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\server.runtimeconfig.json
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\server.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\server.pdb
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Serilog.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\DAL.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Models.dll
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\DAL.pdb
+C:\Users\user1\Desktop\סופי\j\server\bin\Debug\net6.0\Models.pdb
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\staticwebassets\msbuild.build.server.props
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\scopedcss\bundle\server.styles.css
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\server.csproj.CopyComplete
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\server.dll
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\refint\server.dll
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\server.pdb
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+C:\Users\user1\Desktop\סופי\j\server\obj\Debug\net6.0\ref\server.dll
